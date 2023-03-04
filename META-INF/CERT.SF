@@ -1,0 +1,19 @@
+Signature-Version: 1.0
+Created-By: 1.0 (JRummy Apps Inc.)
+SHA1-Digest-Manifest: C54au6lNFHWi8aCiTxFObMEaIfc=
+
+Name: system/bin/mkbootfs
+SHA1-Digest: cwCVT+AFjlGWtorZXSSK3cDqMSc=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: A1e3bS87qeP0suypQEZd5JkBY8E=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: JUqar27F+nrV3zBeTBxkrM1/Ukw=
+
+Name: system/bin/mkbootimg
+SHA1-Digest: PshX4d2GY+gBRzz2yiAD7zGENCc=
+
+Name: system/bin/unmkbootimg
+SHA1-Digest: 8wq9e5tltF246sDCThvJOd9qoA0=
+

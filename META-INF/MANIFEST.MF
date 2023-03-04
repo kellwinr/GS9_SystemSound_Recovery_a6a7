@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (JRummy Apps Inc.)
+
+Name: system/bin/mkbootfs
+SHA1-Digest: 9VT+DS8cCPecemJF8JJNl5LL/EU=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: N6CPCO4Tg4g+jpoF4EIH31IMO50=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: ygSP0NefcGv5SErY1AZLNH7HpZM=
+
+Name: system/bin/unmkbootimg
+SHA1-Digest: mCNUx8A3ycG+FvFx+Hd+ZhAFVL0=
+
+Name: system/bin/mkbootimg
+SHA1-Digest: fplAtfGXBUAOdyAIv06VY/Fcn40=
+
